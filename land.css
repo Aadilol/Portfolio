@@ -52,10 +52,17 @@ body {
   }
 
   a{
+    font-family: 'Abril Fatface', cursive;
+    color: black;
+    text-decoration: none;
     position: absolute;
     bottom: -2%;
     left: 10px;
     z-index: 1;
+  }
+  a:hover{
+    background-color: black;
+    color: antiquewhite;
   }
   
   .banner-container.move-to-top {
