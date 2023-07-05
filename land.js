@@ -1,4 +1,5 @@
 const bannerContainer = document.querySelector('.banner-container');
+const contentContainer = document.querySelector('.content-container');
 const moveButton = document.querySelector('.move-button');
 
 const cards = document.querySelectorAll('.card');
@@ -7,19 +8,17 @@ const modalContent = document.querySelector('.modal-content');
 
 moveButton.addEventListener('click', function() {
   bannerContainer.classList.toggle('move-to-top');
+  contentContainer.classList.toggle('move-to-top');
   moveButton.classList.toggle('icon-down');
   moveButton.classList.toggle('icon-up');
-  contentContainer.classList.toggle('move-to-top');
 });
 
 document.addEventListener('DOMContentLoaded', function() {
   const cards = document.querySelectorAll('.card');
-  
-  // Add the fade-in class to each card after a small delay
   cards.forEach(function(card, index) {
     setTimeout(function() {
       card.classList.add('fade-in');
-    }, 100 * index); // Adjust the delay as desired
+    }, 120 * index);
   });
 });
 
