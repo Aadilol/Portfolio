@@ -15,7 +15,7 @@ const cardLinks = [
   'https://www.etsy.com/ca/listing/1527040298/are-you-not-afraid-of-wasting-your?click_key=0a59f80b5d7af5593b1858c4885625e693c75ae0%3A1527040298&click_sum=9eb19ded&ref=shop_home_active_6',
   'https://www.etsy.com/ca/listing/1527201736/no-drug?click_key=4d95a933e709d7097b8d35df00bcdc5752eae013%3A1527201736&click_sum=7a016294&ref=shop_home_active_1',
   'https://www.etsy.com/ca/listing/1541221937/mahesh-uchiha?click_key=2aacb84b210c4330a333c943e1e13a712bd7972f%3A1541221937&click_sum=47087d8a&ref=shop_home_active_7',
-  'https://www.etsy.com/ca/listing/1527040900/mayakkam?click_key=503f12652a0da48f846e9bfd77dd93a9d5278d2d%3A1527040900&click_sum=31dc23c8&ref=shop_home_active_2
+  'https://www.etsy.com/ca/listing/1527040900/mayakkam?click_key=503f12652a0da48f846e9bfd77dd93a9d5278d2d%3A1527040900&click_sum=31dc23c8&ref=shop_home_active_2',
   'https://www.etsy.com/ca/listing/1529468819/ayin?click_key=6ae82829e1afb473083cd2080a34f0b1d3cc3387%3A1529468819&click_sum=81fa4db4&ref=shop_home_active_9',
   'https://www.etsy.com/ca/listing/1541222407/bhanu-rekha?click_key=ac52f851534646e7b773db73a0d9368e63bd7197%3A1541222407&click_sum=ee18b4e7&ref=shop_home_active_5',
   'https://www.etsy.com/ca/listing/1529462033/mohanlal-cmiygl?click_key=bff86988553854c9fb3c12c7ab498dc9acf44090%3A1529462033&click_sum=1834970c&ref=shop_home_active_10'
