@@ -47,17 +47,17 @@ body {
     z-index: 1;
   }
 
-  a{
+  a.mail{
     font-family: 'Abril Fatface', cursive;
     color: black;
     text-decoration: none;
     position: absolute;
     bottom: -2%;
     left: 10px;
-    z-index: 1;
+    z-index: 2;
   }
 
-  a:hover{
+  a.mail:hover{
     background-color: black;
     color: antiquewhite;
   }
@@ -154,8 +154,8 @@ body {
 }
 
 .modal-content {
-  width: 75%;
-  height: 70%;
+  width: 90%;
+  height: 90%;
   background-color: #fff;
   border-radius: 5px;
   background-size: contain;
